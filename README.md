@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi :wave:
+I am a full stack developer that specializes in writing efficient code.
 
-<!--
-**Asyc/Asyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm skilled in many languages including, but not limited to:
+* C++
+* C
+* Java / Bytecode Manipulation
+* ASM(x86_64)
+* HTML
+* GLSL
 
-Here are some ideas to get you started:
+Along with their respective build systems:
+Maven, Gradle, and CMake / Makefile/ Ninja
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have an interest in game development, and I am skilled in several Graphics APIs such as: 
+* Vulkan
+* OpenGL
+
+I am exceptional at:
+* Network Programming / Cryptography
+* Graphics Programming
+* Low Level Programming
+* Muli-Threaded Environments
+
+I am also skilled in several Java APIs, including:
+* Netty
+* LWJGL
+* OW2 ASM (+ ASM-TREE)
+
+![Asyc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyc&show_icons=true&count_private=true&theme=cobalt)
+[![Asyc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asyc&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Asyc's Wakalang Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Asyc&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
