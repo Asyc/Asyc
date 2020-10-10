@@ -1,7 +1,7 @@
 ### Hi :wave:
 I am a full stack developer that specializes in writing efficient code.
 
-I'm skilled in many languages including, but not limited to:
+##### Languages I Know
 * C++
 * C
 * Java / Bytecode Manipulation
@@ -9,20 +9,21 @@ I'm skilled in many languages including, but not limited to:
 * HTML
 * GLSL
 
-Along with their respective build systems:
-Maven, Gradle, and CMake / Makefile/ Ninja
+##### Build Systems
+* Maven
+* Gradle
+* CMake / Makefile
 
-I have an interest in game development, and I am skilled in several Graphics APIs such as: 
-* Vulkan
+##### Graphical APIs
 * OpenGL
+* Vulkan
 
-I am exceptional at:
+##### Specilizations
 * Network Programming / Cryptography
-* Graphics Programming
-* Low Level Programming
-* Muli-Threaded Environments
+* Graphical Programming
+* Multi-Threaded Environments
 
-I am also skilled in several Java APIs, including:
+##### API-Knowledge
 * Netty
 * LWJGL
 * OW2 ASM (+ ASM-TREE)
