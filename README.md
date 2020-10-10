@@ -1,5 +1,5 @@
 ### Hi :wave:
-I am a full stack developer that specializes in writing efficient code.
+I'm a full stack developer that specializes in writing efficient code.
 
 ##### Languages I Know
 * C++ / C
